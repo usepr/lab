@@ -18,6 +18,20 @@ by hzq
 7. 数据量及数据（包括标签）干净程度对深度网络的影响。
 ```
 
+```markdown
+by xiaolang
+
+1. 训练如何结束？
+2. 对于分类问题，单个分类大约要多少量级的样本？
+3. 理论上说，网络在结构确定后，因该有一个全局最优解，跟样本貌似没啥关系？
+   如果是这样，那训练过程根据样本找出的最优解相当于什么？
+```
+
+### Task
+1. 猫脸识别非监督学习
+2. 谷歌大脑的其它深度学习相关工作
+3. 3D Convolutional Neural Networks for Human Action Recognition
+
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Book list
@@ -36,7 +50,13 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 4. 人脸识别较为成熟，但是也可以从头到尾走一遍
 5. 基于深度学习的视觉跟踪，例如卷积神经网络
 
+### research institue
+1. [google Research](https://research.googleblog.com/)
+
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ai-snail/lab/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+
+### resource 
+1. [论文检索](http://sci-hub.cc)
 
 ### Support or Contact
 
