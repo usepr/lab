@@ -28,6 +28,12 @@ by xiaolang
 4. 图像或者其他多通道卷积是如何计算的
 ```
 
+```markdown
+by lhc
+1. 使用基于矩阵的方法推导自编码，CNN，lstm的梯度
+2. 随机梯度下降的有效性证明
+```
+
 ### Task
 1. 猫脸识别非监督学习
 2. 谷歌大脑的其它深度学习相关工作
@@ -50,6 +56,7 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 3. 异常行为检测，打人检测、丢弃物品之类的
 4. 人脸识别较为成熟，但是也可以从头到尾走一遍
 5. 基于深度学习的视觉跟踪，例如卷积神经网络
+6. 中文word2vec(包括敏感词)
 
 ### research institue
 1. [google Research](https://research.googleblog.com/)
@@ -58,7 +65,8 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### resource 
 1. [论文检索](http://sci-hub.cc)
-
+2. https://github.com/terryum/awesome-deep-learning-papers
+3. https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
